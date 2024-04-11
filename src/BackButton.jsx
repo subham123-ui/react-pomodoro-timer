@@ -13,4 +13,4 @@ function BackButton(props) {
   )
 }
 
-export default ';
+export default 'BackButton';
